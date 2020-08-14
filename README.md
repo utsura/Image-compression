@@ -71,6 +71,13 @@ npm install --save-dev imagemin-pngquant
 npm install --save-dev gulp-changed
 ```
 
+#### 11. 以下のファイルを Image-compression 以下に作成する
+
+```
+mkdir ./save_image
+mkdir ./compressed
+```
+
 ## 使い方
 ### 画像を準備する
 1. さくらレンタルサーバ コントロールパネル > ファイルマネージャー > utsura > html > save_image をダウンロードする
